@@ -1,0 +1,5 @@
+Name: Assanali
+Surname: Akenzhan
+Group: IT2-2313
+Student ID: 38330
+Course: DevOps
