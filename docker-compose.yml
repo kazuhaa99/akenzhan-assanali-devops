@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: akenzhan-assanali-devops
+    container_name: akenzhan-assanali-container
+    ports:
+      - "8080:8080"
+    environment:
+      STUDENT_NAME: Assanali
+      STUDENT_SURNAME: Akenzhan
+      STUDENT_GROUP: IT2-2313
+      STUDENT_ID: "38330"
