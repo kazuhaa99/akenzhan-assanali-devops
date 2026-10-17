@@ -24,3 +24,6 @@ docker build -t akenzhan-assanali-devops .
 docker run --name akenzhan-assanali-container akenzhan-assanali-devops
 docker compose up -d
 ```
+
+## DevOps workflow
+Linux -> Git -> GitHub -> Jenkins -> Docker
